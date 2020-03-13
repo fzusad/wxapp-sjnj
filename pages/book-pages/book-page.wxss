@@ -1,0 +1,13 @@
+/* pages/book-pages/book-page.wxss */
+page{
+  height: 100%
+}
+.topwhite{
+  padding-top: 30rpx;
+}
+.imagesize{
+  display:flex;
+  flex-wrap: wrap;                   
+  justify-content: center;  
+
+}

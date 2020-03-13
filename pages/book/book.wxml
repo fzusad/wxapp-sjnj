@@ -1,0 +1,12 @@
+<!--pages/book/book.wxml-->
+<view class="book-container bg-white" catchtap="toIndex">
+    <view class="book-info">
+        <image class="book-image" mode="scaleToFill" src="/images/1.png"></image>
+        <text class="click-text">（点击阅读）</text>
+        <view class="book-desc">
+            <text class="book-main-text">松江年鉴 2019</text>
+            <text class="book-text">上海市松江区地方志办公室</text>
+            <text class="book-text">上海辞书出版社</text>
+        </view>
+    </view>
+</view>

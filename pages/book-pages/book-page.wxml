@@ -1,0 +1,6 @@
+<view class="topwhite">
+
+</view>
+<view class='imagesize' wx:for="{{pages}}">
+  <image src="{{item}}" class="in-image" bindtap="previewImg" mode="widthFix"></image>
+</view>
